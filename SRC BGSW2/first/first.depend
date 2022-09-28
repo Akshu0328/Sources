@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664190250 source:c:\src bgsw2\first\main.c
+	<stdio.h>
+	<stdlib.h>
+

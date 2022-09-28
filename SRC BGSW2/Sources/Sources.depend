@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1664258561 source:c:\src bgsw2\sources\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myMath.h"
+
+1664259017 c:\src bgsw2\sources\mymath.h
+	<stdio.h>
+
